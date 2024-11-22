@@ -1,4 +1,4 @@
 # Azure Knowledge Mining
 
-## Project-1: Margies Travel Azure AI Search Solution
+### Project-1: Margies Travel Azure AI Search Solution
 
